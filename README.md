@@ -39,5 +39,12 @@ To download the complete dataset in a single ZIP file, click the link below:
 
 🔗 **[Download PPG_Sensor_Data.zip](https://github.com/hellen0327/PPG_Sensor_Data/archive/refs/heads/main.zip)**  
 
+You can download individual subject files from the links below:  
+
+| Subject | PPG Data (.CSV) | Fixed Parameters (.TXT) |
+|---------|----------------|-------------------------|
+| 01      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_01.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_01.txt) |
+
+
 ## 📄 Reference  
 Argüello-Prada, E. J., & Bolaños, S. M. (2023). *On the role of perfusion index for estimating blood glucose levels with ultrasound-assisted and conventional finger photoplethysmography in the near-infrared wavelength range*. **Biomedical Signal Processing and Control, 86**, 105338. [https://doi.org/10.1016/j.bspc.2023.105338](https://doi.org/10.1016/j.bspc.2023.105338)
