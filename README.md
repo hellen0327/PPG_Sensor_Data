@@ -9,25 +9,27 @@ This repository contains a dataset of photoplethysmography (PPG) signals recorde
 The dataset consists of processed `.CSV` files (comma-separated-value format) containing PPG signals and fixed parameters for a total of **23 subjects**. Each file corresponds to an individual recording session, with a **duration of 120 seconds per trial**. The dataset is organized into two main folders:  
 
 - **ppg_csv/** → Contains `.CSV` files with PPG signals recorded from three different locations (forehead, ear, and fingertip).  
-- **fixed_parameters/** → Contains `.TXT` files summarizing the fixed parameters for each subject, including age, gender, and blood glucose level.
+- **fix_par/** → Contains `.TXT` files summarizing the fixed parameters for each subject, including age, gender, and blood glucose level.
 
 ## 📁 Data Format 
 All files follow the naming convention: 
 - Sujeto_##.csv
 - Sujeto_##.txt
+  
 where `##` represents the subject number (e.g., `Sujeto_01.csv`, `Sujeto_01.txt`).  
 
 ### **PPG Data (`ppg_csv/`)**  
-Each `.CSV` file (comma-separated-value format) contains the following columns:  
-- **Time (s):** Timestamp of the recording.  
+Each `.CSV` file contains the following columns:  
+- **Time(s):** Timestamp of the recording.  
 - **PPG_Forehead:** PPG signal recorded from the forehead.  
 - **PPG_Ear:** PPG signal recorded from the ear.  
 - **PPG_Fingertip:** PPG signal recorded from the fingertip.
 
-### **Fixed Parameters (`fixed_parameters/`)**  
+### **Fixed Parameters (`fix_par/`)**  
 Each `.TXT` file contains a summary of the subject's fixed parameters, including:  
 - **Subject ID:** Sujeto_##  
-- **Signals:** PPG_Forehead; PPG_Ear; PPG_Fingertip  
+- **Signals:** PPG_Forehead; PPG_Ear; PPG_Fingertip
+- **Sampling Frequency:** Varies per subject
 - **Age:** Subject's age.  
 - **Gender:** Subject's gender (`M` for male, `F` for female).   
 - **Glucose Level (mg/dL):** Blood glucose measurement at the time of the recording.
