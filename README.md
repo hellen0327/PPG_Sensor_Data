@@ -35,7 +35,7 @@ Each `.TXT` file contains a summary of the subject's fixed parameters, including
 - **Glucose Level (mg/dL):** Blood glucose measurement at the time of the recording.
 
 ## 📥 Download  
-To download the complete dataset in a single ZIP file, click the link below:  
+To download the complete dataset, click the link below:  
 
 🔗 **[Download PPG_Sensor_Data.zip](https://github.com/hellen0327/PPG_Sensor_Data/releases/download/v1.0/PPG_Sensor_Data.zip)**  
 
