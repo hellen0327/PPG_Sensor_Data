@@ -43,7 +43,7 @@ You can download individual subject files from the links below:
 
 | Subject | PPG Data (.CSV) | Fixed Parameters (.TXT) |
 |---------|----------------|-------------------------|
-| 01      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_1.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_01.txt) |
+| 01      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/blob/main/ppg_csv/Sujeto_1.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_01.txt) |
 
 
 ## 📄 Reference  
