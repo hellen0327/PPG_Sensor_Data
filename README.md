@@ -43,7 +43,13 @@ You can download individual subject files from the links below:
 
 | Subject | PPG Data (.CSV) | Fixed Parameters (.TXT) |
 |---------|----------------|-------------------------|
-| 01      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/blob/main/ppg_csv/Sujeto_1.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_01.txt) |
+| 1      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_1.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_1.txt) |
+| 2      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_2.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_2.txt) |
+| 3      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_3.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_3.txt) |
+| 4      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_4.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_4.txt) |
+| 5      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_5.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_5.txt) |
+| ...    | ...            | ...                     |
+| 23     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_23.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_23.txt) |
 
 
 ## 📄 Reference  
