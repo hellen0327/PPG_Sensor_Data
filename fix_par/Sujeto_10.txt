@@ -1,0 +1,6 @@
+Sujeto_10
+Signals: PPG_Forehead; PPG_Ear; PPG_Fingertip
+Sampling Frequency: 34.01 Hz 
+Age: 56
+Gender: F
+Glucose level: 121.00 mg/dL
