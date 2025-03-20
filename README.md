@@ -37,7 +37,7 @@ Each `.TXT` file contains a summary of the subject's fixed parameters, including
 ## 📥 Download  
 To download the complete dataset in a single ZIP file, click the link below:  
 
-🔗 **[Download PPG_Sensor_Data.zip](https://github.com/hellen0327/PPG_Sensor_Data/archive/refs/heads/main.zip)**  
+🔗 **[Download PPG_Sensor_Data.zip](https://github.com/hellen0327/PPG_Sensor_Data/releases/download/v1.0/PPG_Sensor_Data.zip)**  
 
 You can download individual subject files from the links below:  
 
