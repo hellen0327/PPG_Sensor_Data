@@ -34,6 +34,9 @@ Each `.TXT` file contains a summary of the subject's fixed parameters, including
 - **Gender:** Subject's gender (`M` for male, `F` for female).   
 - **Glucose Level (mg/dL):** Blood glucose measurement at the time of the recording.
 
+## 📄 Reference  
+Argüello-Prada, E. J., & Bolaños, S. M. (2023). *On the role of perfusion index for estimating blood glucose levels with ultrasound-assisted and conventional finger photoplethysmography in the near-infrared wavelength range*. **Biomedical Signal Processing and Control, 86**, 105338. [https://doi.org/10.1016/j.bspc.2023.105338](https://doi.org/10.1016/j.bspc.2023.105338)
+
 ## 📥 Download  
 To download the complete dataset, click the link below:  
 
@@ -48,9 +51,24 @@ You can download individual subject files from the links below:
 | 3      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_3.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_3.txt) |
 | 4      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_4.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_4.txt) |
 | 5      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_5.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_5.txt) |
-| ...    | ...            | ...                     |
+| 6      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_6.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_6.txt) |
+| 7      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_7.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_7.txt) |
+| 8      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_8.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_8.txt) |
+| 9      | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_9.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_9.txt) |
+| 10     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_10.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_10.txt) |
+| 11     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_11.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_11.txt) |
+| 12     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_12.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_12.txt) |
+| 13     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_13.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_13.txt) |
+| 14     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_14.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_14.txt) |
+| 15     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_15.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_15.txt) |
+| 16     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_16.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_16.txt) |
+| 17     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_17.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_17.txt) |
+| 18     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_18.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_18.txt) |
+| 19     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_19.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_19.txt) |
+| 20     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_20.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_20.txt) |
+| 21     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_21.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_21.txt) |
+| 22     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_22.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_22.txt) |
 | 23     | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/ppg_csv/Sujeto_23.csv) | [Download](https://github.com/hellen0327/PPG_Sensor_Data/raw/main/fix_par/Sujeto_23.txt) |
 
 
-## 📄 Reference  
-Argüello-Prada, E. J., & Bolaños, S. M. (2023). *On the role of perfusion index for estimating blood glucose levels with ultrasound-assisted and conventional finger photoplethysmography in the near-infrared wavelength range*. **Biomedical Signal Processing and Control, 86**, 105338. [https://doi.org/10.1016/j.bspc.2023.105338](https://doi.org/10.1016/j.bspc.2023.105338)
+
